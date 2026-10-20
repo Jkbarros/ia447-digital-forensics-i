@@ -1,7 +1,7 @@
-# Archive index — ﻿# IA 447 - Digital Forensics I
+# Archive index — IA 447
 
-Readable map of files under `archive/`.
-Original PDF/DOCX submissions from Canvas; open the linked file for full content.
+Readable map of files under `archive/`.  
+Prefer markdown in `docs/` when available.
 
 ## canvas-submissions
 
@@ -26,8 +26,7 @@ Original PDF/DOCX submissions from Canvas; open the linked file for full content
 | [Steganography assignment.pdf](../archive/canvas-submissions/Steganography%20assignment.pdf) | pdf |
 | [vm.png](../archive/canvas-submissions/vm.png) | png |
 
-
 ## Notes
 
-- Filenames match Canvas export names (including duplicates like `-1` copies).
-- Prefer markdown in `docs/` when available; this index is the fallback catalog.
+- Run `python scripts/build_pdf_docs.py` to refresh markdown and screenshots.
+- Guided index: [submissions-catalog.md](submissions-catalog.md).
