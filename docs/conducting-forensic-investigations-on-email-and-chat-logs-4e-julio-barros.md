@@ -9,7 +9,7 @@
 Conducting Forensic Investigations on Email and Chat Logs (4e)
 Digital Forensics, Investigation, and Response, Fourth Edition - Lab 07
 Student: Email:
-Julio Barros jribeir2@emich.edu
+Julio Barros
 Time on Task: Progress:
 1 hour, 17 minutes 100%
 Report Generated: Wednesday, November 22, 2023 at 11:30 AM

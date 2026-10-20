@@ -9,7 +9,7 @@
 Conducting Forensic Investigations on System Memory (4e)
 Digital Forensics, Investigation, and Response, Fourth Edition - Lab 10
 Student: Email:
-Julio Barros jribeir2@emich.edu
+Julio Barros
 Time on Task: Progress:
 1 hour, 1 minute 100%
 Report Generated: Tuesday, December 5, 2023 at 5:12 PM

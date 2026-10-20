@@ -9,7 +9,7 @@
 Conducting Forensic Investigations on Windows Systems (4e)
 Digital Forensics, Investigation, and Response, Fourth Edition - Lab 05
 Student: Email:
-Julio Barros jribeir2@emich.edu
+Julio Barros
 Time on Task: Progress:
 1 hour, 31 minutes 100%
 Report Generated: Wednesday, October 25, 2023 at 4:17 PM

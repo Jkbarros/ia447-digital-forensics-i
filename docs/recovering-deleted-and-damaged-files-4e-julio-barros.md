@@ -9,7 +9,7 @@
 Recovering Deleted and Damaged Files (4e)
 Digital Forensics, Investigation, and Response, Fourth Edition - Lab 03
 Student: Email:
-Julio Barros jribeir2@emich.edu
+Julio Barros
 Time on Task: Progress:
 2 hours, 3 minutes 100%
 Report Generated: Wednesday, October 11, 2023 at 5:11 PM

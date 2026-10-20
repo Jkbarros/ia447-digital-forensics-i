@@ -9,7 +9,7 @@
 Recognizing the Use of Steganography in Forensic Evidence (4e)
 Digital Forensics, Investigation, and Response, Fourth Edition - Lab 02
 Student: Email:
-Julio Barros jribeir2@emich.edu
+Julio Barros
 Time on Task: Progress:
 2 hours, 55 minutes 100%
 Report Generated: Wednesday, September 27, 2023 at 5:04 PM
